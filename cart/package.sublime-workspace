@@ -1,0 +1,294 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"container"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"get",
+				"getElementByid"
+			],
+			[
+				"pro",
+				"project_2"
+			],
+			[
+				"textcolor",
+				"text-emphasis-color"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"ti",
+				"timeline"
+			],
+			[
+				"fa",
+				"fa-facebook-f"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"us",
+				"Username"
+			],
+			[
+				"h",
+				"h2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/dell/AppData/Local/Temp/Temp1_10. Chat - using sockets.zip/codeial-final-live/.git/objects/0d/abb8cfb0eb08a9c2fd950897c5bd1807391506",
+		"/C/Users/dell/OneDrive/Desktop/Quiz-app-project/src/components/header_footer/Header.jsx",
+		"/C/Users/dell/OneDrive/Desktop/Quiz-app-project/src/components/header_footer/Footer.jsx",
+		"/C/Users/dell/OneDrive/Desktop/Quiz-app-project/build/newindex.html",
+		"/C/Users/dell/OneDrive/Desktop/Quiz-app-project/src/components/core/Popup.jsx",
+		"/C/Users/dell/OneDrive/Desktop/Quiz-app-project/webpack.config.js",
+		"/C/Users/dell/OneDrive/Desktop/Quiz-app-project/build/index_bundle.js",
+		"/C/Users/dell/OneDrive/Desktop/Quiz-app-project/public/favicon.ico",
+		"/C/Users/dell/OneDrive/Desktop/Quiz-app-project/package.json",
+		"/C/Users/dell/OneDrive/Documents/Web Development Program/Flex property CSS/flex grow and shrink.html",
+		"/C/Users/dell/OneDrive/Documents/Web development/8.flex/wrapstyle.css",
+		"/C/Users/dell/OneDrive/Documents/Web development/8.flex/wrap.html",
+		"/E/Web development",
+		"/C/Users/dell/OneDrive/Desktop/ritiksinghresumeproject/style.css",
+		"/C/Users/dell/OneDrive/Desktop/ritiksinghresumeproject/index.html",
+		"/C/Users/dell/Downloads/6 Steps to Create a Quiz App in ReactJS _ CodeVertiser",
+		"/C/Users/dell/OneDrive/Desktop/Resume project/Ritik singh resume project/style.css",
+		"/C/Users/dell/OneDrive/Desktop/Resume project/Ritik singh resume project/index.html",
+		"/C/Users/dell/OneDrive/Desktop/Resume project/Ritik singh resume project/image/book-with-green.jpg",
+		"/C/Users/dell/OneDrive/Desktop/Resume project/Resume Smooth Scroll/index.html",
+		"/C/Users/dell/OneDrive/Desktop/Resume project/Resume Smooth Scroll/script.js",
+		"/C/Users/dell/OneDrive/Desktop/Resume project/Resume Smooth Scroll/style.css",
+		"/C/Users/dell/OneDrive/Desktop/Resume project/About Section/index.html",
+		"/C/Users/dell/OneDrive/Desktop/FRT PROJECT/about.html",
+		"/C/Users/dell/OneDrive/Desktop/Resume project/About Section/style.css",
+		"/C/Users/dell/OneDrive/Desktop/Resume project/HTML Structure for Resume/style.css",
+		"/C/Users/dell/OneDrive/Desktop/Resume project/HTML Structure for Resume/index.html",
+		"/C/Users/dell/OneDrive/Documents/Web development/index.html",
+		"/C/Users/dell/OneDrive/Documents/Web development/3.Forms/form program 5",
+		"/C/Users/dell/OneDrive/Documents/Web development/3.Forms/formprogram3.html",
+		"/C/Users/dell/OneDrive/Documents/Web development/ritik.html",
+		"/C/Users/dell/OneDrive/Documents/Web development/3.Forms/formprogram4",
+		"/C/Users/dell/OneDrive/Documents/Web development/3.Forms/formprogram2",
+		"/C/Users/dell/OneDrive/Documents/Web development/column and row",
+		"/C/Users/dell/OneDrive/Documents/Web development/web/ndcjk",
+		"/C/Web development/HTML/Basics/index.html",
+		"/C/Web development/HTML/Basics/Web/rajiv laundry.html",
+		"/C/Web development/HTML/Basics/Web/sujit",
+		"/C/Users/dell/OneDrive/Documents/square pattern 3.cpp",
+		"/C/Users/dell/OneDrive/Documents/AIR LINE MANAGEMENT SYSTEM/Airline Ticke Booking System/add jar folder/jcalendar-1.4.jar"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
